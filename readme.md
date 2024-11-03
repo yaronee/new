@@ -6,3 +6,7 @@
 -Git c'est un outil installé localement sur l'ordinateur, qui permet de gérer l’historique du code.
 
 -GitHub c'est une plateforme en ligne qui utilise Git pour héberger et partager et collaborer sur le code.
+
+
+
+Je suis sur dev
